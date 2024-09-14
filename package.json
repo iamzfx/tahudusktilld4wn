@@ -1,0 +1,28 @@
+{
+  "name": "dawn",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@faker-js/faker": "^8.4.1",
+    "cheerio": "^1.0.0",
+    "delay": "^6.0.0",
+    "dotenv": "^16.4.5",
+    "fs": "0.0.1-security",
+    "node-fetch": "^3.3.2",
+    "open": "^10.1.0",
+    "optional": "^0.1.4",
+    "prompt-sync": "^4.2.0",
+    "readline-sync": "^1.4.10",
+    "sharp": "^0.33.5",
+    "socks-proxy-agent": "^8.0.4",
+    "tesseract.js": "^5.1.0"
+  }
+}
